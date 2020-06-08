@@ -1,0 +1,9 @@
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.Common\bin\Debug\netcoreapp3.1\ShopClothing.Common.deps.json
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.Common\bin\Debug\netcoreapp3.1\ShopClothing.Common.dll
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.Common\obj\Debug\netcoreapp3.1\ShopClothing.Common.csprojAssemblyReference.cache
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.Common\obj\Debug\netcoreapp3.1\ShopClothing.Common.AssemblyInfoInputs.cache
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.Common\obj\Debug\netcoreapp3.1\ShopClothing.Common.AssemblyInfo.cs
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.Common\bin\Debug\netcoreapp3.1\ShopClothing.Common.pdb
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.Common\obj\Debug\netcoreapp3.1\ShopClothing.Common.csproj.CoreCompileInputs.cache
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.Common\obj\Debug\netcoreapp3.1\ShopClothing.Common.dll
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.Common\obj\Debug\netcoreapp3.1\ShopClothing.Common.pdb

@@ -1,0 +1,17 @@
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.BLL\bin\Debug\netcoreapp3.1\ShopClothing.BLL.deps.json
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.BLL\bin\Debug\netcoreapp3.1\ShopClothing.BLL.dll
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.BLL\obj\Debug\netcoreapp3.1\ShopClothing.BLL.csprojAssemblyReference.cache
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.BLL\obj\Debug\netcoreapp3.1\ShopClothing.BLL.AssemblyInfoInputs.cache
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.BLL\obj\Debug\netcoreapp3.1\ShopClothing.BLL.AssemblyInfo.cs
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.BLL\bin\Debug\netcoreapp3.1\ShopClothing.BLL.runtimeconfig.json
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.BLL\bin\Debug\netcoreapp3.1\ShopClothing.BLL.runtimeconfig.dev.json
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.BLL\bin\Debug\netcoreapp3.1\ShopClothing.BLL.pdb
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.BLL\bin\Debug\netcoreapp3.1\ShopClothing.Common.dll
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.BLL\bin\Debug\netcoreapp3.1\ShopClothing.DAL.dll
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.BLL\bin\Debug\netcoreapp3.1\ShopClothing.Common.pdb
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.BLL\bin\Debug\netcoreapp3.1\ShopClothing.DAL.pdb
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.BLL\obj\Debug\netcoreapp3.1\ShopClothing.BLL.csproj.CoreCompileInputs.cache
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.BLL\obj\Debug\netcoreapp3.1\ShopClothing.BLL.csproj.CopyComplete
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.BLL\obj\Debug\netcoreapp3.1\ShopClothing.BLL.dll
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.BLL\obj\Debug\netcoreapp3.1\ShopClothing.BLL.pdb
+D:\LTCSDL\ShopClothingProject\ShopClothing\ShopClothing.BLL\obj\Debug\netcoreapp3.1\ShopClothing.BLL.genruntimeconfig.cache
