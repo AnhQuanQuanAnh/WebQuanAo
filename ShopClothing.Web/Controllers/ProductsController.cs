@@ -52,5 +52,12 @@ namespace ShopClothing.Web.Controllers
             var res = _svc.UpdateProduct(req);
             return Ok(res);
         }
+
+        [HttpPost("delete-product/{id}")]
+        public IActionResult DeleteProduct(int id)
+        {
+            var res = _svc.Remove(id);
+            return Ok(res);
+        }
     }
 }

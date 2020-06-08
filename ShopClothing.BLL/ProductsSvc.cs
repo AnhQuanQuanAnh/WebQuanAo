@@ -89,6 +89,12 @@ namespace ShopClothing.BLL
             return res;
         }
 
+        public int Remove(int productId)
+        {
+            int res = _rep.Remove(productId);
+            return res;
+        }
+
         #endregion -- Overrides --
 
     }
